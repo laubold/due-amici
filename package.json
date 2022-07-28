@@ -1,0 +1,16 @@
+{
+  "name": "due-amici",
+  "version": "1.0.0",
+  "description": "webscraper für mittagstisch",
+  "main": "scrape.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "laubold",
+  "license": "ISC",
+  "dependencies": {
+    "aws-xray-sdk": "^3.3.6",
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
